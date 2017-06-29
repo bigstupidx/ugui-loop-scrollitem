@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4DE54215-07AD-B754-E334-21C1D175744B}") = "LoopScroll", "Assembly-CSharp.csproj", "{5A629530-6587-4EDD-4666-2BD29494D917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A629530-6587-4EDD-4666-2BD29494D917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A629530-6587-4EDD-4666-2BD29494D917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A629530-6587-4EDD-4666-2BD29494D917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A629530-6587-4EDD-4666-2BD29494D917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
